@@ -1,5 +1,10 @@
 # A/UX 3 ports
 
+> **This repository has moved** to [jflitton/aux-3](https://github.com/jflitton/aux-3), in
+> [`ports/`](https://github.com/jflitton/aux-3/tree/main/ports), with its whole history. This
+> one is archived and no longer updated; packages already published, and the source
+> published with them, still link here.
+
 Software for A/UX 3, Apple's Unix for 68k Macs, cross-compiled on macOS and packaged for
 [pkg](https://github.com/jflitton/aux-3-pkg), A/UX's package manager.
 
