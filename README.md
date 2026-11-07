@@ -1,7 +1,7 @@
 # A/UX 3 ports
 
-> **This repository has moved** to [jflitton/aux-3](https://github.com/jflitton/aux-3), in
-> [`ports/`](https://github.com/jflitton/aux-3/tree/main/ports), with its whole history. This
+> **This repository has moved** to [jflitton/aux-3-forge](https://github.com/jflitton/aux-3-forge), in
+> [`ports/`](https://github.com/jflitton/aux-3-forge/tree/main/ports), with its whole history. This
 > one is archived and no longer updated; packages already published, and the source
 > published with them, still link here.
 
